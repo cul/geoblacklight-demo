@@ -66,4 +66,5 @@ gem 'devise'
 gem 'devise-guests', '~> 0.3'
 
 gem 'geo_combine'
+gem 'mysql2'
 

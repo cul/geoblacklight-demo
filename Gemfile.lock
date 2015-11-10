@@ -155,6 +155,7 @@ GEM
     minitest (5.8.2)
     multi_json (1.11.2)
     multipart-post (2.0.0)
+    mysql2 (0.4.1)
     net-scp (1.2.1)
       net-ssh (>= 2.6.5)
     net-ssh (3.0.1)
@@ -263,6 +264,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jettywrapper
   jquery-rails
+  mysql2
   rails (= 4.2.4)
   rsolr (~> 1.0.6)
   sass-rails (~> 5.0)
